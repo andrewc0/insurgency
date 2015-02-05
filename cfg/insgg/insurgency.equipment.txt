@@ -1,0 +1,252 @@
+"Weapons"
+{
+	"weapon_at4"
+	{
+		"fullName"			"AT4 Rocket Launcher"
+		"ammoId"			"-1" //Find if clip size is increased over one, otherwise worthless.
+		"mags"				"-1"
+		"death_msg"			"weapon_rocket_at4"
+		"aux"				"weapon_m9"
+	}
+	"weapon_rpg7"
+	{
+		"fullName"			"RPG-7 Rocket Launcher"
+		"ammoId"			"-1" //Find if clip size is increased over one, otherwise worthless.
+		"mags"				"-1"
+		"death_msg"			"weapon_rocket_rpg7"
+		"aux"				"weapon_m9"
+	}
+	"weapon_kabar"
+	{
+		"fullName"			"Knife"
+		"ammoId"			"-1" // No ammo.
+		"mags"				"-1"
+	}
+	"weapon_m67"
+	{
+		"fullName"			"M67 Grenade"
+		"ammoId"			"3"
+		"mags"				"1"
+		"death_msg"			"weapon_grenade_m67"
+		"aux"				"weapon_m9"
+	}
+	"weapon_f1"
+	{
+		"fullName"			"F1 Grenade"
+		"ammoId"			"4"
+		"mags"				"1"
+		"death_msg"			"weapon_grenade_f1"
+		"aux"				"weapon_m9"
+	}
+	"weapon_m18"
+	{
+		"fullName"			"M18 Flashbang"
+		"ammoId"			"5"
+		"mags"				"1"
+	}
+	"weapon_m84"
+	{
+		"fullName"			"M84 Smoke Grenade"
+		"ammoId"			"6"
+		"mags"				"1"
+	}
+	"weapon_c4_clicker"
+	{
+		"fullName"			"C4"
+		"ammoId"			"7"
+		"mags"				"1"
+		"death_msg"			"weapon_grenade_c4"
+		"aux"				"weapon_m9"
+	}
+	"weapon_c4_ied"
+	{
+		"fullName"			"IED"
+		"ammoId"			"7"
+		"mags"				"1"
+		"death_msg"			"weapon_grenade_ied"
+		"aux"				"weapon_m9"
+	}
+	"weapon_m203_he"
+	{
+		"fullName"			"M203 HE Underbarrel"
+		"ammoId"			"8"
+		"mags"				"1"
+		"death_msg"			"weapon_grenade_m203_he"
+		"aux"				"weapon_m16a4"
+	}
+	"weapon_anm14"
+	{
+		"fullName"			"AN-M14"
+		"ammoId"			"12"
+		"mags"				"1"
+		"death_msg"			"weapon_grenade_anm14"
+		"aux"				"weapon_m9"
+	}
+	"weapon_molotov"
+	{
+		"fullName"			"Molotov"
+		"ammoId"			"13"
+		"mags"				"1"
+		"death_msg"			"weapon_grenade_molotov"
+		"aux"				"weapon_m9"
+	}
+	"weapon_p2a1"
+	{
+		"fullName"			"P2A1 Flare Gun"
+		"ammoId"			"14"
+		"mags"				"1"
+		"aux"				"weapon_m9"
+	}
+	"weapon_ump45"
+	{
+		"fullName"			"UMP-45"
+		"ammoId"			"19"
+		"mags"				"10"
+	}
+	"weapon_m45"
+	{
+		"fullName"			"M45A1"
+		"ammoId"			"20"
+		"mags"				"10"
+	}
+	"weapon_m1911"
+	{
+		"fullName"			"M1911"
+		"ammoId"			"20"
+		"mags"				"10"
+	}
+	"weapon_aks74u"
+	{
+		"fullName"			"AKS-74U"
+		"ammoId"			"26"
+		"mags"				"10"
+	}
+	"weapon_ak74"
+	{
+		"fullName"			"AK-74"
+		"ammoId"			"26"
+		"mags"				"10"
+	}
+	"weapon_gp25_he"
+	{
+		"fullName"			"AK-74 Underbarrel Launcher"
+		"ammoId"			"26"
+		"mags"				"1"
+		"death_msg"			"weapon_grenade_gp25_he"
+		"aux"				"weapon_ak74"
+	}
+	"weapon_makarov"
+	{
+		"fullName"			"Makarov"
+		"ammoId"			"54"
+		"mags"				"10"
+	}
+	"weapon_m9"
+	{
+		"fullName"			"M9"
+		"ammoId"			"57"
+		"mags"				"10"
+	}
+	"weapon_akm"
+	{
+		"fullName"			"AKM"
+		"ammoId"			"60"
+		"mags"				"10"
+	}
+	"weapon_fal"
+	{
+		"fullName"			"FAL"
+		"ammoId"			"64"
+		"mags"				"10"
+	}
+	"weapon_m16a4"
+	{
+		"fullName"			"M16A4"
+		"ammoId"			"68"
+		"mags"				"10"
+	}
+	"weapon_mk18"
+	{
+		"fullName"			"Mk18"
+		"ammoId"			"72"
+		"mags"				"10"
+	}
+	"weapon_m4a1"
+	{
+		"fullName"			"M4A1"
+		"ammoId"			"72"
+		"mags"				"10"
+	}
+	"weapon_mp5"
+	{
+		"fullName"			"MP5K"
+		"ammoId"			"76"
+		"mags"				"10"
+	}
+	"weapon_mp40"
+	{
+		"fullName"			"MP40"
+		"ammoId"			"76"
+		"mags"				"10"
+	}
+	"weapon_m14"
+	{
+		"fullName"			"M14 EBR"
+		"ammoId"			"84"
+		"mags"				"10"
+	}
+	"weapon_mini14"
+	{
+		"fullName"			"AC-556"
+		"ammoId"			"87"
+		"mags"				"10"
+	}
+	"weapon_m1a1"
+	{
+		"fullName"			"M1A1"
+		"ammoId"			"91"
+		"mags"				"10"
+	}
+	"weapon_sks"
+	{
+		"fullName"			"SKS"
+		"ammoId"			"95"
+		"mags"				"10"
+	}
+	"weapon_m249"
+	{
+		"fullName"			"M249"
+		"ammoId"			"99"
+		"mags"				"10"
+	}
+	"weapon_rpk"
+	{
+		"fullName"			"RPK"
+		"ammoId"			"102"
+		"mags"				"10"
+	}
+	"weapon_m40a1"
+	{
+		"fullName"			"M40A1"
+		"ammoId"			"105"
+		"mags"				"10"
+	}
+	"weapon_mosin"
+	{
+		"fullName"			"Mosin"
+		"ammoId"			"107"
+		"mags"				"10"
+	}
+	"weapon_m590"
+	{
+		"fullName"			"M590"
+		"ammoId"			"109"
+		"mags"				"50"
+	}
+	"weapon_toz"
+	{
+		"fullName"			"TOZ"
+		"ammoId"			"109"
+		"mags"				"50"
+	}
+}
