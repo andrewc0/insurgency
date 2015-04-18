@@ -1,0 +1,71 @@
+"Games"
+{
+	"insurgency"
+	{
+		"Offsets"
+		{
+			"Teleport"
+			{
+				"windows"	"115"
+				"linux"		"116"
+			}
+			"GetMaxHealth"
+			{
+				"windows"	"123"
+				"linux"		"124"
+			}
+			"SetHealth"
+			{
+				"windows"	"124"
+				"linux"		"125"
+			}
+			"GiveAmmo"
+			{
+				"windows"	"273"
+				"linux"		"274"
+			}
+			"Respawn"
+			{
+				"windows"	"349"
+				"linux"		"350"
+			}
+		}
+		"Signatures"
+		{
+			"RoundEnd"
+			{
+				"library"	"server"
+				"linux"		"@_ZN9CINSRules21State_Enter_POSTROUNDEv"
+			}
+			"GetTeam"
+			{
+				"library"	"server"
+				"linux"		"@_ZNK10CINSPlayer9GetTeamIDEv"
+			}
+			"ChangeTeam"
+			{
+				//CINSPlayer::ChangeTeam(int)
+				"library"	"server"
+				"linux"		"@_ZN10CINSPlayer10ChangeTeamEi"
+			}
+			"GetSquad"
+			{
+				//CINSPlayerResource::GetSquad(int)
+				"library"	"server"
+				"linux"		"@_ZN18CINSPlayerResource8GetSquadEi"
+			}
+			"AutoJoinSquad"
+			{
+				//CINSPlayer::AutoJoinSquad(void)
+				"library"	"server"
+				"linux"		"@_ZN10CINSPlayer13AutoJoinSquadEv"
+			}
+			"RoundWon"
+			{
+				//CINSRules::RoundWon(int, int, char  const*, char  const*)
+				"library"	"server"
+				"linux"		"@_ZN9CINSRules8RoundWonEiiPKcS1_"
+			}
+		}
+	}
+}

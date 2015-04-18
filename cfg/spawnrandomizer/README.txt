@@ -1,0 +1,1 @@
+Use the in game admin commands I made, it is WAY easier.

@@ -1,0 +1,1 @@
+Edit the server.cfg to your liking.

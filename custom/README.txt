@@ -1,0 +1,1 @@
+This is just a standard VPK to house the gungame theater. Change it if you want, but make sure the spawner has no weapon available!

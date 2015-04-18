@@ -3,7 +3,7 @@
 	"weapon_at4"
 	{
 		"fullName"			"AT4 Rocket Launcher"
-		"ammoId"			"-1" //Find if clip size is increased over one, otherwise worthless.
+		"ammoId"			"-1"
 		"mags"				"-1"
 		"death_msg"			"weapon_rocket_at4"
 		"aux"				"weapon_m9"
@@ -11,7 +11,7 @@
 	"weapon_rpg7"
 	{
 		"fullName"			"RPG-7 Rocket Launcher"
-		"ammoId"			"-1" //Find if clip size is increased over one, otherwise worthless.
+		"ammoId"			"-1"
 		"mags"				"-1"
 		"death_msg"			"weapon_rocket_rpg7"
 		"aux"				"weapon_m9"
@@ -19,7 +19,7 @@
 	"weapon_kabar"
 	{
 		"fullName"			"Knife"
-		"ammoId"			"-1" // No ammo.
+		"ammoId"			"-1"
 		"mags"				"-1"
 	}
 	"weapon_m67"

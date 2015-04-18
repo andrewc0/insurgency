@@ -1,0 +1,53 @@
+"Levels"
+{
+	
+	//Machine guns
+	"1"		"weapon_m249"
+	"2"		"weapon_rpk"
+	
+	//Rifles
+	"3"		"weapon_akm"
+	"4"		"weapon_mk18"
+	"5"		"weapon_ak74"
+	"6"		"weapon_mini14"
+	"7"		"weapon_fal"
+	"8"		"weapon_m14"
+	"9"		"weapon_m1a1"
+	"10"	"weapon_m4a1"
+	"11"	"weapon_sks"
+	"12"	"weapon_m16a4"
+	
+	//Snipers
+	"13"	"weapon_m40a1"
+	"14"	"weapon_mosin"
+	
+	// SMGs
+	"15"	"weapon_aks74u"
+	"16"	"weapon_mp5"
+	"17"	"weapon_mp40"
+	"18"	"weapon_ump45"
+	
+	// Shotguns
+	"19"	"weapon_toz"
+	"20"	"weapon_m590"
+	
+	// Pistols
+	"21"	"weapon_m45"
+	"22"	"weapon_m1911"
+	"23"	"weapon_m9"
+	"24"	"weapon_makarov"
+	
+	//Explosives (RPG)
+	"25"	"weapon_at4;weapon_rpg7"
+	
+	// Explosives (C4)
+	"26"	"weapon_c4_clicker;weapon_c4_ied"
+	
+	// (Grenade)
+	"27"	"weapon_m67;weapon_f1"
+	"28"	"weapon_molotov"
+	//"29"	"weapon_anm14" Bullshit hard, enable if you want people to get mad
+	
+	// Knife Level (last)
+	"29"	"weapon_kabar"
+}
